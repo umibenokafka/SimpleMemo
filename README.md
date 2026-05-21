@@ -3,35 +3,35 @@ SwiftUIを用いて作成したシンプルなメモアプリです。
 
 # Features
 
-メモ追加
+・メモ追加
 
-メモ表示
+・メモ表示
 
-メモ編集
+・メモ編集
 
-メモ削除
+・メモ削除
 
-UserDefaultsによるデータ保存
+・UserDefaultsによるデータ保存
 
 # Technologies
 
-Swift
+・Swift
 
-SwiftUI
+・SwiftUI
 
-UserDefaults
+・UserDefaults
 
-Git / GitHub
+・Git / GitHub
 
 # CRUD
 
-Create（追加）
+・Create（追加）
 
-Read（表示）
+・Read（表示）
 
-Update（編集）
+・Update（編集）
 
-Delete（削除）
+・Delete（削除）
 
 # Overview
 
@@ -39,17 +39,17 @@ Delete（削除）
 
 # Learning Points
 
-@State / Binding
+・@State / Binding
 
-List / ForEach
+・List / ForEach
 
-Optional (Int?)
+・Optional (Int?)
 
-guard / if let
+・guard / if let
 
-UserDefaults
+・UserDefaults
 
-SwiftUIの状態管理
+・SwiftUIの状態管理
 
 # Repository
 
