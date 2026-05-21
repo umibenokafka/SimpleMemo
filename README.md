@@ -1,7 +1,7 @@
 # SimpleMemo
 SwiftUIを用いて作成したシンプルなメモアプリです。
 
-Features
+#Features
 
 メモ追加
 
