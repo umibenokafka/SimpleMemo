@@ -1,7 +1,7 @@
 # SimpleMemo
 SwiftUIを用いて作成したシンプルなメモアプリです。
 
-#Features
+# Features
 
 メモ追加
 
@@ -13,7 +13,7 @@ SwiftUIを用いて作成したシンプルなメモアプリです。
 
 UserDefaultsによるデータ保存
 
-Technologies
+#Technologies
 
 Swift
 
@@ -23,7 +23,7 @@ UserDefaults
 
 Git / GitHub
 
-CRUD
+#CRUD
 
 Create（追加）
 
@@ -33,11 +33,11 @@ Update（編集）
 
 Delete（削除）
 
-Overview
+#Overview
 
 入力したメモを一覧表示し、タップで編集、スワイプで削除できます。データはUserDefaultsに保存されるため、アプリを再起動しても保持されます。
 
-Learning Points
+#Learning Points
 
 @State / Binding
 
@@ -51,6 +51,6 @@ UserDefaults
 
 SwiftUIの状態管理
 
-Repository
+#Repository
 
 GitHub:https://github.com/umibenokafka/SimpleMemo
